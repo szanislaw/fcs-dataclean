@@ -1,0 +1,986 @@
+﻿Concierge	Bookings	attraction pass
+Concierge	Bookings	attraction reservation
+Concierge	Bookings	attraction ticketing
+Concierge	Bookings	attraction tickets
+Concierge	Bookings	available restaurants
+Concierge	Bookings	body massage
+Concierge	Bookings	body spa
+Concierge	Bookings	body treatment
+Concierge	Bookings	book a dinner
+Concierge	Bookings	book a seat
+Concierge	Bookings	book a spa session
+Concierge	Bookings	book a table
+Concierge	Bookings	book a ticket
+Concierge	Bookings	buy attraction entry
+Concierge	Bookings	buy attraction pass
+Concierge	Bookings	buy attraction ticket
+Concierge	Bookings	buy attraction tickets
+Concierge	Bookings	buy entry tickets
+Concierge	Bookings	buy event passes
+Concierge	Bookings	buy pass for attractions
+Concierge	Bookings	buy tour pass
+Concierge	Bookings	buy tour tickets
+Concierge	Bookings	dinner reservation
+Concierge	Bookings	dinner table reservation
+Concierge	Bookings	eatery recommendations
+Concierge	Bookings	exercise room
+Concierge	Bookings	facial treatment
+Concierge	Bookings	fitness class schedule
+Concierge	Bookings	fitness gym
+Concierge	Bookings	fitness room
+Concierge	Bookings	food recommendations
+Concierge	Bookings	food spots
+Concierge	Bookings	food suggestions
+Concierge	Bookings	gym location
+Concierge	Bookings	gym workout
+Concierge	Bookings	gymnasium
+Concierge	Bookings	healing center
+Concierge	Bookings	health center
+Concierge	Bookings	health classes
+Concierge	Bookings	health club
+Concierge	Bookings	health fitness
+Concierge	Bookings	health spa
+Concierge	Bookings	hotel dining
+Concierge	Bookings	hotel dining options
+Concierge	Bookings	hotel fitness center
+Concierge	Bookings	hotel gym
+Concierge	Bookings	hotel spa
+Concierge	Bookings	lunch booking
+Concierge	Bookings	lunch reservation
+Concierge	Bookings	lunchtime booking
+Concierge	Bookings	lunchtime reservation
+Concierge	Bookings	make a table reservation
+Concierge	Bookings	massage booking
+Concierge	Bookings	massage service
+Concierge	Bookings	massage session
+Concierge	Bookings	personal fitness
+Concierge	Bookings	personal fitness class
+Concierge	Bookings	place to eat
+Concierge	Bookings	request a table
+Concierge	Bookings	reservation for attraction
+Concierge	Bookings	reservation for dinner
+Concierge	Bookings	reservation for table
+Concierge	Bookings	reservation for tickets
+Concierge	Bookings	reserve a table
+Concierge	Bookings	reserve access to attraction
+Concierge	Bookings	reserve attraction ticket
+Concierge	Bookings	reserve dinner
+Concierge	Bookings	reserve for dinner
+Concierge	Bookings	reserve for lunch
+Concierge	Bookings	reserve lunch
+Concierge	Bookings	reserve lunch table
+Concierge	Bookings	reserve museum tickets
+Concierge	Bookings	reserve restaurant table
+Concierge	Bookings	reserve spa
+Concierge	Bookings	reserve spa session
+Concierge	Bookings	reserve table
+Concierge	Bookings	reserve table for dinner
+Concierge	Bookings	restaurant
+Concierge	Bookings	restaurants nearby
+Concierge	Bookings	 spa 
+Concierge	Bookings	spa and wellness
+Concierge	Bookings	spa appointment
+Concierge	Bookings	 spa facility
+Concierge	Bookings	 spa location
+Concierge	Bookings	 spa reservation
+Concierge	Bookings	 spa schedule
+Concierge	Bookings	 spa session
+Concierge	Bookings	 spa session package
+Concierge	Bookings	 spa treatment
+Concierge	Bookings	strength class
+Concierge	Bookings	strength training classes
+Concierge	Bookings	table for dinner
+Concierge	Bookings	table for lunch
+Concierge	Bookings	table reservation
+Concierge	Bookings	the massage
+Concierge	Bookings	 the spa 
+Concierge	Bookings	therapeutic massage
+Concierge	Bookings	therapeutic session
+Concierge	Bookings	therapy massage
+Concierge	Bookings	therapy session
+Concierge	Bookings	treatment at spa
+Concierge	Bookings	treatment massage
+Concierge	Bookings	treatment session
+Concierge	Bookings	wellness center
+Concierge	Bookings	wellness class
+Concierge	Bookings	wellness classes
+Concierge	Bookings	wellness facility
+Concierge	Bookings	wellness gym
+Concierge	Bookings	wellness house
+Concierge	Bookings	wellness hub
+Concierge	Bookings	wellness lounge
+Concierge	Bookings	wellness massage
+Concierge	Bookings	wellness package
+Concierge	Bookings	wellness retreat
+Concierge	Bookings	wellness session
+Concierge	Bookings	wellness spa
+Concierge	Bookings	wellness studio
+Concierge	Bookings	wellness treatment
+Concierge	Bookings	where to dine
+Concierge	Bookings	where to eat
+Concierge	Bookings	workout fitness
+Concierge	Bookings	workout groups
+Concierge	Bookings	workout room
+Concierge	Bookings	 yoga 
+Concierge	Bookings	yoga activity
+Concierge	Bookings	yoga and fitness
+Concierge	Bookings	yoga booking
+Concierge	Bookings	yoga class
+Concierge	Bookings	yoga course
+Concierge	Bookings	yoga lesson
+Concierge	Bookings	yoga meditation
+Concierge	Bookings	yoga practice
+Concierge	Bookings	yoga session
+Concierge	Bookings	yoga therapy
+Concierge	Bookings	yoga time
+Concierge	Bookings	yoga training
+Concierge	Bookings	你能帮我在餐厅订一个桌位吗
+Concierge	Bookings	我可以预订一个水疗时间段吗
+Concierge	Bookings	我想在餐厅预订一个桌位
+Concierge	Bookings	我想预约一个水疗项目
+Concierge	Bookings	我想预订午餐
+Concierge	Bookings	我想预订晚餐
+Concierge	Bookings	请帮我安排一个水疗护理
+Concierge	Bookings	请帮我预订今晚的餐桌
+Concierge	Status	bag hasn't arrived
+Concierge	Status	bag haven't arrive
+Concierge	Status	baggage hasn't arrived
+Concierge	Status	bags ain't here
+Concierge	Status	bags aren't here
+Concierge	Status	bags did not arrive
+Concierge	Status	bags didn't come
+Concierge	Status	bags didn't show up
+Concierge	Status	bags have not arrived
+Concierge	Status	bags have yet to arrive
+Concierge	Status	bags haven't arrive
+Concierge	Status	bags haven't come
+Concierge	Status	bags haven't shown up
+Concierge	Status	bags not arrived yet
+Concierge	Status	bags not delivered
+Concierge	Status	bags not here
+Concierge	Status	have not received bags
+Concierge	Status	haven't received bags
+Concierge	Status	haven't received my luggage
+Concierge	Status	is my baggage still on its way
+Concierge	Status	luggage did not come
+Concierge	Status	luggage didn't arrive
+Concierge	Status	luggage didn't come yet
+Concierge	Status	luggage has not arrived
+Concierge	Status	luggage hasn't arrived
+Concierge	Status	luggage hasn't shown up
+Concierge	Status	luggage hasn't turned up
+Concierge	Status	luggage isn't here
+Concierge	Status	luggage not delivered
+Concierge	Status	luggage not here
+Concierge	Status	luggage not in room
+Concierge	Status	luggage not yet come
+Concierge	Status	luggages have not arrived
+Concierge	Status	my luggage haven't arrived
+Concierge	Status	status of my bags
+Concierge	Status	status of my luggage
+Concierge	Status	status on my luggage
+Concierge	Status	update on my luggage
+Concierge	Status	update on my suitcase delivery
+Concierge	Status	update on my bags
+Concierge	Status	waiting on my suitcases
+Concierge	Status	what's happening with my bags
+Concierge	Status	what's the luggage update
+Concierge	Status	what's the progress on my luggage
+Concierge	Status	what's up with my bags
+Concierge	Status	where are my belongings
+Concierge	Status	where are my suitcases
+Concierge	Status	where are my suitcases
+Concierge	Status	where is my bag
+Concierge	Status	where is my luggage
+Concierge	Status	我1小时前就办理了入住，行李现在在哪
+Concierge	Status	我想确认我的行李送达状态
+Concierge	Status	我的行李什么时候能送到房间
+Concierge	Status	我的行李还没送到房间
+Concierge	Tour	amusement park
+Concierge	Tour	aquariam
+Concierge	Tour	art galleries
+Concierge	Tour	art museum
+Concierge	Tour	casino
+Concierge	Tour	city tour
+Concierge	Tour	cultural activity
+Concierge	Tour	exhibition center
+Concierge	Tour	famos landmarks
+Concierge	Tour	famous buildings
+Concierge	Tour	famous land marks
+Concierge	Tour	famous landmarks
+Concierge	Tour	famous sites
+Concierge	Tour	famous spots
+Concierge	Tour	famous tourist sites
+Concierge	Tour	group excursion
+Concierge	Tour	guided excursion
+Concierge	Tour	guided tour
+Concierge	Tour	guided trip
+Concierge	Tour	heritage area
+Concierge	Tour	heritage experience
+Concierge	Tour	heritage location
+Concierge	Tour	heritage place
+Concierge	Tour	heritage site
+Concierge	Tour	heritage tour
+Concierge	Tour	heritage trail
+Concierge	Tour	heritage walk
+Concierge	Tour	heritage zone
+Concierge	Tour	historic heritage
+Concierge	Tour	historic site
+Concierge	Tour	historical landmarks
+Concierge	Tour	iconic landmarks
+Concierge	Tour	kid friendly
+Concierge	Tour	local city tour
+Concierge	Tour	local culture
+Concierge	Tour	local experience
+Concierge	Tour	local guide
+Concierge	Tour	local heritage
+Concierge	Tour	local malls
+Concierge	Tour	local museum
+Concierge	Tour	local tour
+Concierge	Tour	malls around
+Concierge	Tour	malls nearby
+Concierge	Tour	museum tour
+Concierge	Tour	museums
+Concierge	Tour	must tries
+Concierge	Tour	muzium
+Concierge	Tour	notable landmarks
+Concierge	Tour	outlet mall
+Concierge	Tour	personal tour guide
+Concierge	Tour	place to check out
+Concierge	Tour	places  must see
+Concierge	Tour	places for tourists
+Concierge	Tour	places recommended
+Concierge	Tour	places to go
+Concierge	Tour	places to see
+Concierge	Tour	places worth seeing
+Concierge	Tour	popular attractions
+Concierge	Tour	popular landmarks
+Concierge	Tour	popular places
+Concierge	Tour	popular tourist spots
+Concierge	Tour	private excursion
+Concierge	Tour	private group tour
+Concierge	Tour	private sightseeing
+Concierge	Tour	private tour
+Concierge	Tour	public gallery
+Concierge	Tour	retail area
+Concierge	Tour	retail mall
+Concierge	Tour	shopping centre
+Concierge	Tour	shopping complex
+Concierge	Tour	shopping mall
+Concierge	Tour	shopping place
+Concierge	Tour	shopping plazas
+Concierge	Tour	shopping route
+Concierge	Tour	shopping sites
+Concierge	Tour	shopping tour
+Concierge	Tour	shopping trip
+Concierge	Tour	sight seeing spots
+Concierge	Tour	sightseeing guide
+Concierge	Tour	sightseeing spots
+Concierge	Tour	sightseeing tour
+Concierge	Tour	sightseeing tours
+Concierge	Tour	site seeing
+Concierge	Tour	suggested activities
+Concierge	Tour	suggested spots
+Concierge	Tour	suggested tours
+Concierge	Tour	suitable for children
+Concierge	Tour	suitable for kids
+Concierge	Tour	the aquarium
+Concierge	Tour	the beach
+Concierge	Tour	the casino
+Concierge	Tour	the galleries
+Concierge	Tour	the malls
+Concierge	Tour	the zoo
+Concierge	Tour	theme park
+Concierge	Tour	theme place
+Concierge	Tour	theme playground
+Concierge	Tour	themepark
+Concierge	Tour	thrill park
+Concierge	Tour	top attractions
+Concierge	Tour	top landmarks
+Concierge	Tour	top places to visit
+Concierge	Tour	top recommendations
+Concierge	Tour	tour for group
+Concierge	Tour	tour for groups
+Concierge	Tour	tour guide
+Concierge	Tour	tour guide service
+Concierge	Tour	tour package
+Concierge	Tour	tour recommendations
+Concierge	Tour	tour with guide
+Concierge	Tour	tourguide
+Concierge	Tour	tourism guide
+Concierge	Tour	tourism spots
+Concierge	Tour	tourist areas
+Concierge	Tour	tourist attractions
+Concierge	Tour	tourist destinations
+Concierge	Tour	tourist guide
+Concierge	Tour	tourist landmarks
+Concierge	Tour	tourist locations
+Concierge	Tour	tourist spot
+Concierge	Tour	tourist spots
+Concierge	Tour	tourist traps
+Concierge	Tour	touristic places
+Concierge	Tour	tourists spots
+Concierge	Tour	walking group tour
+Concierge	Tour	walking tour
+Concierge	Tour	walking tours
+Concierge	Tour	walking trail
+Concierge	Tour	wildlife park
+Concierge	Tour	 zoo 
+Concierge	Tour	zoological park
+Concierge	Tour	最好的购物地点在哪里
+Concierge	Tour	有导游服务吗
+Concierge	Tour	本地有哪些旅游景点
+Concierge	Tour	能推荐附近的购物场所吗
+Concierge	Tour	酒店提供城市观光安排吗
+Concierge	Tour	酒店组织观光团吗
+Concierge	Tour	酒店附近有什么值得参观的地方
+Concierge	Transport	airport
+Concierge	Transport	airport drop off
+Concierge	Transport	airport pick up
+Concierge	Transport	airport pick up point
+Concierge	Transport	airport pickup service
+Concierge	Transport	airport shuttle
+Concierge	Transport	airport taxi
+Concierge	Transport	arrival pickup
+Concierge	Transport	automobile
+Concierge	Transport	automobile rental
+Concierge	Transport	boat ride
+Concierge	Transport	boat terminal
+Concierge	Transport	bus route
+Concierge	Transport	bus service
+Concierge	Transport	bus schedule
+Concierge	Transport	bus stop
+Concierge	Transport	bus terminal
+Concierge	Transport	buses in town
+Concierge	Transport	 cab 
+Concierge	Transport	 cabs 
+Concierge	Transport	call a taxi
+Concierge	Transport	 car 
+Concierge	Transport	car for hire
+Concierge	Transport	car hire
+Concierge	Transport	car rental
+Concierge	Transport	chauffeur car
+Concierge	Transport	city train
+Concierge	Transport	collect from airport
+Concierge	Transport	commuter train
+Concierge	Transport	courtesy bus
+Concierge	Transport	courtesy shuttle
+Concierge	Transport	drop at the airport
+Concierge	Transport	drop off at airport
+Concierge	Transport	 ferry 
+Concierge	Transport	ferry depot
+Concierge	Transport	ferry pick up
+Concierge	Transport	ferry point
+Concierge	Transport	ferry port
+Concierge	Transport	ferry service
+Concierge	Transport	ferry station
+Concierge	Transport	ferry terminal
+Concierge	Transport	free hotel shuttle
+Concierge	Transport	free shuttle
+Concierge	Transport	hotel shutle
+Concierge	Transport	hotel shuttle
+Concierge	Transport	hotel shuttle bus
+Concierge	Transport	limousine
+Concierge	Transport	limousine service
+Concierge	Transport	pick me up from airport
+Concierge	Transport	pick up from the airport
+Concierge	Transport	railway station
+Concierge	Transport	rent a car
+Concierge	Transport	car rental
+Concierge	Transport	shuttle bus
+Concierge	Transport	shuttle operation time
+Concierge	Transport	shuttle pick up time
+Concierge	Transport	shuttle pickup
+Concierge	Transport	shuttle service
+Concierge	Transport	shuttle transfer
+Concierge	Transport	shuttle van
+Concierge	Transport	shuttle van service
+Concierge	Transport	 taksi 
+Concierge	Transport	 taxi 
+Concierge	Transport	taxis
+Concierge	Transport	tour bus
+Concierge	Transport	train
+Concierge	Transport	train depot
+Concierge	Transport	train station
+Concierge	Transport	transfer arrangement
+Concierge	Transport	transfer booking
+Concierge	Transport	transfer to airport
+Concierge	Transport	vehicle rental
+Concierge	Transport	下一班班车什么时候出发
+Concierge	Transport	可以安排机场接机服务吗
+Concierge	Transport	可以帮我叫一辆出租车吗
+Concierge	Transport	巴士多久一班
+Concierge	Transport	我想租一辆车
+Concierge	Transport	我想预订酒店的豪华轿车服务
+Concierge	Transport	我需要机场接送协助，能否帮忙安排
+Concierge	Transport	我需要预约机场接送服务
+Concierge	Transport	有机场班车时刻表吗
+Concierge	Transport	班车的路线是怎样的
+Concierge	Transport	酒店提供租车服务吗
+Concierge	Transport	酒店有巴士服务吗
+Concierge	Transport	麻烦您帮我预约机场接送
+Duty Manager	Guest dissatisfactions	 attitude is unacceptable
+Duty Manager	Guest dissatisfactions	 behavior is unprofessional
+Duty Manager	Guest dissatisfactions	 did not solve my problem
+Duty Manager	Guest dissatisfactions	 g m 
+Duty Manager	Guest dissatisfactions	 speak to the mana jar
+Duty Manager	Guest dissatisfactions	 speak to the maneger
+Duty Manager	Guest dissatisfactions	 speek to manager
+Duty Manager	Guest dissatisfactions	 speek to the manajer
+Duty Manager	Guest dissatisfactions	 the general manager
+Duty Manager	Guest dissatisfactions	 the person in charge
+Duty Manager	Guest dissatisfactions	 too arrogant
+Duty Manager	Guest dissatisfactions	 bos 
+Duty Manager	Guest dissatisfactions	 boss
+Duty Manager	Guest dissatisfactions	 boz 
+Duty Manager	Guest dissatisfactions	connect me to g m 
+Duty Manager	Guest dissatisfactions	 di rector
+Duty Manager	Guest dissatisfactions	direct or 
+Duty Manager	Guest dissatisfactions	directer
+Duty Manager	Guest dissatisfactions	directer of operations
+Duty Manager	Guest dissatisfactions	director
+Duty Manager	Guest dissatisfactions	director of op perations
+Duty Manager	Guest dissatisfactions	director of oper ations
+Duty Manager	Guest dissatisfactions	director of operashuns
+Duty Manager	Guest dissatisfactions	director of operations
+Duty Manager	Guest dissatisfactions	duty manager
+Duty Manager	Guest dissatisfactions	formal complaint
+Duty Manager	Guest dissatisfactions	formal complant
+Duty Manager	Guest dissatisfactions	 g m 
+Duty Manager	Guest dissatisfactions	 g m
+Duty Manager	Guest dissatisfactions	 gee em 
+Duty Manager	Guest dissatisfactions	general manager
+Duty Manager	Guest dissatisfactions	general manajer
+Duty Manager	Guest dissatisfactions	general maneger
+Duty Manager	Guest dissatisfactions	 gm 
+Duty Manager	Guest dissatisfactions	 gm
+Duty Manager	Guest dissatisfactions	head of depart ment
+Duty Manager	Guest dissatisfactions	head of depart ment
+Duty Manager	Guest dissatisfactions	head of departmant
+Duty Manager	Guest dissatisfactions	head of department
+Duty Manager	Guest dissatisfactions	head of departmunt
+Duty Manager	Guest dissatisfactions	head of hotel
+Duty Manager	Guest dissatisfactions	i want the general manager
+Duty Manager	Guest dissatisfactions	i want to talk to the duty manager
+Duty Manager	Guest dissatisfactions	i'd like to see the general manager
+Duty Manager	Guest dissatisfactions	i'm being overcharged
+Duty Manager	Guest dissatisfactions	i'm extremely disappointed
+Duty Manager	Guest dissatisfactions	i'm losing my patience
+Duty Manager	Guest dissatisfactions	i've left messages but no reply
+Duty Manager	Guest dissatisfactions	 jee em 
+Duty Manager	Guest dissatisfactions	jenral manager
+Duty Manager	Guest dissatisfactions	jenral manajer
+Duty Manager	Guest dissatisfactions	let me speak to supa rvisor
+Duty Manager	Guest dissatisfactions	let me speak to super vyser
+Duty Manager	Guest dissatisfactions	let me speak to supervisor
+Duty Manager	Guest dissatisfactions	let me speak to supervizer
+Duty Manager	Guest dissatisfactions	let me speak to supervizor
+Duty Manager	Guest dissatisfactions	let me speak to the gm
+Duty Manager	Guest dissatisfactions	let me speek to supervis or
+Duty Manager	Guest dissatisfactions	let me speek to supervizor
+Duty Manager	Guest dissatisfactions	let me spk to supervisor
+Duty Manager	Guest dissatisfactions	man a jer
+Duty Manager	Guest dissatisfactions	man age ment
+Duty Manager	Guest dissatisfactions	man ager
+Duty Manager	Guest dissatisfactions	man aj er
+Duty Manager	Guest dissatisfactions	man aj iment
+Duty Manager	Guest dissatisfactions	man aj ment
+Duty Manager	Guest dissatisfactions	mana jar
+Duty Manager	Guest dissatisfactions	manag er
+Duty Manager	Guest dissatisfactions	manage her
+Duty Manager	Guest dissatisfactions	manage ment
+Duty Manager	Guest dissatisfactions	manage mint
+Duty Manager	Guest dissatisfactions	management
+Duty Manager	Guest dissatisfactions	managemint
+Duty Manager	Guest dissatisfactions	manager
+Duty Manager	Guest dissatisfactions	managment
+Duty Manager	Guest dissatisfactions	manajer
+Duty Manager	Guest dissatisfactions	manajur
+Duty Manager	Guest dissatisfactions	maneg er
+Duty Manager	Guest dissatisfactions	manegement
+Duty Manager	Guest dissatisfactions	maneger
+Duty Manager	Guest dissatisfactions	mani ger
+Duty Manager	Guest dissatisfactions	manigement
+Duty Manager	Guest dissatisfactions	menagement
+Duty Manager	Guest dissatisfactions	no one ever picks up the phone
+Duty Manager	Guest dissatisfactions	no one has contacted me
+Duty Manager	Guest dissatisfactions	no one has responded
+Duty Manager	Guest dissatisfactions	noise disturbance
+Duty Manager	Guest dissatisfactions	per son in charge
+Duty Manager	Guest dissatisfactions	per son inch arge
+Duty Manager	Guest dissatisfactions	person in charg
+Duty Manager	Guest dissatisfactions	person in charge
+Duty Manager	Guest dissatisfactions	person in charj
+Duty Manager	Guest dissatisfactions	put me through to the gm 
+Duty Manager	Guest dissatisfactions	connect me to the general manager
+Duty Manager	Guest dissatisfactions	speak to a manager
+Duty Manager	Guest dissatisfactions	speak to duty manager
+Duty Manager	Guest dissatisfactions	speak to manager
+Duty Manager	Guest dissatisfactions	speak to the general manager
+Duty Manager	Guest dissatisfactions	speak to the manager
+Duty Manager	Guest dissatisfactions	speak with manager
+Duty Manager	Guest dissatisfactions	speak with the gm
+Duty Manager	Guest dissatisfactions	supa rvisor
+Duty Manager	Guest dissatisfactions	supa rvisor
+Duty Manager	Guest dissatisfactions	super vi sor
+Duty Manager	Guest dissatisfactions	super visor
+Duty Manager	Guest dissatisfactions	super vizor
+Duty Manager	Guest dissatisfactions	super vyser
+Duty Manager	Guest dissatisfactions	super vyser
+Duty Manager	Guest dissatisfactions	supervayzor
+Duty Manager	Guest dissatisfactions	superveyser
+Duty Manager	Guest dissatisfactions	supervis or
+Duty Manager	Guest dissatisfactions	supervis or
+Duty Manager	Guest dissatisfactions	supervising
+Duty Manager	Guest dissatisfactions	supervisor
+Duty Manager	Guest dissatisfactions	supervizer
+Duty Manager	Guest dissatisfactions	supervizor
+Duty Manager	Guest dissatisfactions	the gen eral manager
+Duty Manager	Guest dissatisfactions	the general man a jer
+Duty Manager	Guest dissatisfactions	the general man age her
+Duty Manager	Guest dissatisfactions	the general man ajer
+Duty Manager	Guest dissatisfactions	the general mana jar
+Duty Manager	Guest dissatisfactions	the general manag her
+Duty Manager	Guest dissatisfactions	the general manage her
+Duty Manager	Guest dissatisfactions	the general manager
+Duty Manager	Guest dissatisfactions	the general manager
+Duty Manager	Guest dissatisfactions	the general manajer
+Duty Manager	Guest dissatisfactions	the general maneger
+Duty Manager	Guest dissatisfactions	the jen rul manager
+Duty Manager	Guest dissatisfactions	this charge is not mine
+Duty Manager	Guest dissatisfactions	this is naught five star service
+Duty Manager	Guest dissatisfactions	this is no five star service
+Duty Manager	Guest dissatisfactions	this is not five star service
+Duty Manager	Guest dissatisfactions	this is not how guests should be treated
+Duty Manager	Guest dissatisfactions	this is not what i paid for
+Duty Manager	Guest dissatisfactions	this is very frustrating
+Duty Manager	Guest dissatisfactions	this is worse than expected
+Duty Manager	Guest dissatisfactions	this isn't five star service
+Duty Manager	Guest dissatisfactions	this issue keeps happening
+Duty Manager	Guest dissatisfactions	to speak to the manager
+Duty Manager	Guest dissatisfactions	wrong bill
+Duty Manager	Guest dissatisfactions	你们的员工一点都不帮忙
+Duty Manager	Guest dissatisfactions	你们的员工态度极其恶劣
+Duty Manager	Guest dissatisfactions	你们的员工毫无作为
+Duty Manager	Guest dissatisfactions	你们的员工非常粗鲁
+Duty Manager	Guest dissatisfactions	员工态度很差，根本不解决问题
+Duty Manager	Guest dissatisfactions	我反映问题，但没人理我
+Duty Manager	Guest dissatisfactions	我多次投诉房间问题，但至今未解决
+Duty Manager	Guest dissatisfactions	我对你们的服务很不满意
+Duty Manager	Guest dissatisfactions	我对服务不满意
+Duty Manager	Guest dissatisfactions	我想和总经理谈谈  
+Duty Manager	Guest dissatisfactions	我打了好几次电话，房间问题还是没解决
+Duty Manager	Guest dissatisfactions	我投诉了很多次，但没人采取行动
+Duty Manager	Guest dissatisfactions	我有意见要反馈
+Duty Manager	Guest dissatisfactions	我有重要问题需要反馈
+Duty Manager	Guest dissatisfactions	我的投诉完全没人理
+Duty Manager	Guest dissatisfactions	我要反映问题
+Duty Manager	Guest dissatisfactions	我要和管理层沟通
+Duty Manager	Guest dissatisfactions	我要投诉
+Duty Manager	Guest dissatisfactions	我要正式投诉你们的员工
+Duty Manager	Guest dissatisfactions	我需要见你们的负责人
+Duty Manager	Guest dissatisfactions	请叫经理来和我沟通
+Duty Manager	Guest dissatisfactions	转接总经理  
+Duty Manager	Guest dissatisfactions	转接经理  
+Duty Manager	Guest dissatisfactions	这个问题需要管理层处理
+Frontdesk	Late checkout	bag drop of
+Frontdesk	Late checkout	bag drop off
+Frontdesk	Late checkout	bag dropoff
+Frontdesk	Late checkout	bag storage
+Frontdesk	Late checkout	bag storidge
+Frontdesk	Late checkout	check oat time
+Frontdesk	Late checkout	check out tym
+Frontdesk	Late checkout	checkaught
+Frontdesk	Late checkout	checkout fee 
+Frontdesk	Late checkout	checkout later
+Frontdesk	Late checkout	checkout time
+Frontdesk	Late checkout	chekout later
+Frontdesk	Late checkout	chekout time
+Frontdesk	Late checkout	delay checkout
+Frontdesk	Late checkout	delay checkout
+Frontdesk	Late checkout	delayed departure
+Frontdesk	Late checkout	extend a few hours
+Frontdesk	Late checkout	extend checkout
+Frontdesk	Late checkout	 l8 checkout charges
+Frontdesk	Late checkout	 l8 checkout fee
+Frontdesk	Late checkout	lait checkout charges
+Frontdesk	Late checkout	lait checkout fee
+Frontdesk	Late checkout	late check out charges
+Frontdesk	Late checkout	late check out fee
+Frontdesk	Late checkout	late checkout
+Frontdesk	Late checkout	late checkout charges
+Frontdesk	Late checkout	late checkout charges
+Frontdesk	Late checkout	late checkout cost
+Frontdesk	Late checkout	late checkout fee
+Frontdesk	Late checkout	late checkout fee
+Frontdesk	Late checkout	layt checkout charges
+Frontdesk	Late checkout	layt checkout fee
+Frontdesk	Late checkout	lug age storage
+Frontdesk	Late checkout	lugage storage
+Frontdesk	Late checkout	luggage storage
+Frontdesk	Late checkout	luggage storidge
+Frontdesk	Late checkout	luggage storidge
+Frontdesk	Late checkout	luggage storij
+Frontdesk	Late checkout	 stor my bags
+Frontdesk	Late checkout	 stor my bagz
+Frontdesk	Late checkout	store my bag
+Frontdesk	Late checkout	store my bage
+Frontdesk	Late checkout	store my bags
+Frontdesk	Late checkout	store my bagz
+Frontdesk	Extend stay request	可以帮我办理续住一晚吗
+Frontdesk	Late checkout	可以延迟退房吗
+Frontdesk	Late checkout	延迟退房  
+Frontdesk	Late checkout	延迟退房需要额外收费吗
+Frontdesk	Extend stay request	我可以续住几天吗
+Frontdesk	Late checkout	我想延迟退房
+Frontdesk	Extend stay request	我想延长住宿
+Frontdesk	Extend stay request	我想续住一天，还有空房吗
+Frontdesk	Late checkout	我需要晚一点退房，可以吗
+Frontdesk	Extend stay request	我需要续住一晚，该怎么办理
+Frontdesk	Extend stay request	这个房间可以多住一天吗
+Frontdesk	Late checkout	那寄存行李可以吗
+Frontdesk	Late checkout	酒店规定的退房时间是什么时候
+Laundry	Complains	color faded
+Laundry	Complains	color lost
+Laundry	Complains	colors ran
+Laundry	Complains	damaged garment
+Laundry	Complains	discolored item
+Laundry	Complains	dress missing
+Laundry	Complains	fewer items 
+Laundry	Complains	foreign item
+Laundry	Complains	items torn 
+Laundry	Status	clothes knot delivered
+Laundry	Complains	miss ing item
+Laundry	Complains	missing itam
+Laundry	Complains	missing ite m
+Laundry	Complains	mixed up
+Laundry	Complains	mixup
+Laundry	Status	laundry not delivared
+Laundry	Status	not deli verd
+Laundry	Status	clothes not delivered
+Laundry	Status	items not deli vered
+Laundry	Status	not de livered
+Laundry	Status	dry clean not delivred
+Laundry	Complains	returned incomplete 
+Laundry	Complains	shrank 
+Laundry	Complains	stained 
+Laundry	Complains	still dirty 
+Laundry	Complains	torn items
+Laundry	Status	干洗的衣物今天能送回来吗
+Laundry	Status	我的洗衣延迟了，现在是什么情况
+Laundry	Status	我的衣服在送来的路上了吗
+Laundry	Status	我的衣服洗好了吗？什么时候能送回来
+Laundry	Status	我的衣服还没送过来
+Laundry	Status	请确认我的洗衣什么时候能到
+Laundry	Status	请问我的洗衣进度怎么样了
+Laundry	Complains	wrong itams
+Laundry	Complains	wrong ite ms
+Laundry	Complains	wrong item
+Laundry	Complains	wrong items 
+Laundry	Complains	wrong itemz
+Laundry	Complains	你们送错了，这不是我的衣服
+Laundry	Complains	我的干洗西服有问题
+Laundry	Complains	我的衣服被洗坏了
+Laundry	Complains	我的西装干洗后受损了
+Laundry	Complains	我要投诉干洗裙子的服务问题
+Laundry	Complains	我要投诉洗衣服务，有衣物丢失
+Laundry	Complains	我要投诉洗衣服务，返还的衣物有问题
+Laundry	Complains	我送洗的衣物返还时少了东西
+Laundry	Complains	我送洗的衣物返还时有问题
+Laundry	Complains	衣服没有洗干净，污渍还在。请重新洗一遍
+Laundry	Complains	这条裙子干洗后被撕破了
+Room Service	In room dining	 beer
+Room Service	In room dining	 cake
+Room Service	In room dining	 coke
+Room Service	In room dining	 dim sum 
+Room Service	In room dining	 food
+Room Service	In room dining	 get room service
+Room Service	In room dining	 hot dog
+Room Service	In room dining	 ice cream
+Room Service	In room dining	 soup
+Room Service	In room dining	alcohol
+Room Service	In room dining	brunch
+Room Service	In room dining	burger
+Room Service	In room dining	cappuccino
+Room Service	In room dining	cheese board
+Room Service	In room dining	cigar
+Room Service	In room dining	cigarettes
+Room Service	In room dining	cocktails
+Room Service	In room dining	cookies
+Room Service	In room dining	dairy free
+Room Service	In room dining	expresso
+Room Service	In room dining	fish and chips
+Room Service	In room dining	french fries
+Room Service	In room dining	fries
+Room Service	In room dining	fruits
+Room Service	In room dining	gluten free
+Room Service	In room dining	grilled chicken
+Room Service	In room dining	juice
+Room Service	In room dining	keto friendly
+Room Service	In room dining	late night meal
+Room Service	In room dining	late night snacks
+Room Service	In room dining	latte
+Room Service	In room dining	lemonade
+Room Service	In room dining	midnight snacks
+Room Service	In room dining	mocktails
+Room Service	In room dining	noodles
+Room Service	In room dining	nuggets
+Room Service	In room dining	omelete
+Room Service	In room dining	order breakfast
+Room Service	In room dining	order dessert
+Room Service	In room dining	order dinner
+Room Service	In room dining	order drinks
+Room Service	In room dining	order food
+Room Service	In room dining	order from room service
+Room Service	In room dining	order lunch
+Room Service	In room dining	order room serve
+Room Service	In room dining	order room service
+Room Service	In room dining	order room servis
+Room Service	In room dining	order some food
+Room Service	In room dining	pancake
+Room Service	In room dining	pasta
+Room Service	In room dining	pepsi
+Room Service	In room dining	pizza
+Room Service	In room dining	ramen
+Room Service	In room dining	request room service
+Room Service	In room dining	room service
+Room Service	In room dining	room service menu
+Room Service	In room dining	room service order
+Room Service	In room dining	room service request
+Room Service	In room dining	salad
+Room Service	In room dining	sandwich
+Room Service	In room dining	sandwiches
+Room Service	In room dining	seafood platter
+Room Service	In room dining	shrimp cocktail
+Room Service	In room dining	spaghetti
+Room Service	In room dining	steak
+Room Service	In room dining	vegan
+Room Service	In room dining	vegetarian
+Room Service	In room dining	vegetarian meal
+Room Service	In room dining	waffle
+Room Service	In room dining	yoghurt
+Room Service	Status	我在等我的饮料
+Room Service	Status	我的订单什么时候会送到？
+Room Service	Status	我的食物什么时候会送到？
+Room Service	Status	我还在等我的订单
+Security	Emergency situation	accident
+Security	Emergency situation	acident
+Security	Emergency situation	acsident
+Security	Emergency situation	acsident
+Security	Emergency situation	altercation 
+Security	Emergency situation	ambulans
+Security	Emergency situation	ambulanse
+Security	Emergency situation	ambuleance
+Security	Emergency situation	ambulence
+Security	Emergency situation	ambulens
+Security	Emergency situation	armed person 
+Security	Emergency situation	assault
+Security	Emergency situation	bleadin
+Security	Emergency situation	bleading
+Security	Emergency situation	bleed ing
+Security	Emergency situation	bleedin
+Security	Emergency situation	bleeding
+Security	Emergency situation	bleeding
+Security	Emergency situation	 Bomb
+Security	Emergency situation	bomb threat
+Security	Emergency situation	brawl
+Security	Emergency situation	break in
+Security	Emergency situation	burning smell 
+Security	Emergency situation	chok ing
+Security	Emergency situation	choke ing
+Security	Emergency situation	chokin
+Security	Emergency situation	choking
+Security	Emergency situation	commotion
+Security	Emergency situation	drouning
+Security	Emergency situation	drow ning
+Security	Emergency situation	drownin
+Security	Emergency situation	drowning
+Security	Emergency situation	emeergency
+Security	Emergency situation	emergency
+Security	Emergency situation	emerjensee
+Security	Emergency situation	emrgenzy
+Security	Emergency situation	emurjency
+Security	Emergency situation	emurjensee
+Security	Emergency situation	evacuate
+Security	Emergency situation	explosion 
+Security	Emergency situation	fainted
+Security	Emergency situation	faintid
+Security	Emergency situation	fanted
+Security	Emergency situation	feinted
+Security	Emergency situation	fighting
+Security	Emergency situation	fighting
+Security	Emergency situation	 fire
+Security	Emergency situation	fire alarm
+Security	Emergency situation	fire alrm
+Security	Emergency situation	injur y
+Security	Emergency situation	injure
+Security	Emergency situation	injuree
+Security	Emergency situation	injury
+Security	Emergency situation	loitering 
+Security	Emergency situation	medical
+Security	Emergency situation	medical emergency
+Security	Emergency situation	medikal
+Security	Emergency situation	police
+Security	Emergency situation	polis
+Security	Emergency situation	poliss
+Security	Emergency situation	smoke
+Security	Emergency situation	stranger
+Security	Emergency situation	strangers
+Security	Emergency situation	suspicious
+Security	Emergency situation	suspicious package 
+Security	Emergency situation	suspishous
+Security	Emergency situation	suspishus
+Security	Emergency situation	threaten
+Security	Emergency situation	threatening 
+Security	Emergency situation	threats 
+Security	Emergency situation	uncon scious
+Security	Emergency situation	unconscious
+Security	Emergency situation	unconshus
+Security	Emergency situation	violance
+Security	Emergency situation	violence
+Security	Emergency situation	violense
+Security	Emergency situation	violince
+Security	Emergency situation	weapon
+Security	Emergency situation	weapons 
+Security	Emergency situation	wepon
+Security	Emergency situation	wepun
+Security	Emergency situation	我房间外面有骚乱
+Security	Emergency situation	我房间门外很吵
+Security	Emergency situation	有人在敲我的门  
+Security	Emergency situation	有人想强行进入我的房间
+Security	Emergency situation	有人试图开我的门  
+Security	Emergency situation	有陌生人在敲我的门
+Security	Emergency situation	炸弹  
+Security	Emergency situation	烟雾火灾  
+Security	Emergency situation	走廊里有人在大喊大叫
+Security	Emergency situation	门外有可疑的人！请保安快来
+Security	Emergency situation	门外有陌生人  
+Security	Emergency situation	陌生人试图打开我的房门
+Service Centre	Medical assistance	  cal a doctor
+Service Centre	Medical assistance	  call a docktor
+Service Centre	Medical assistance	  call a docter
+Service Centre	Medical assistance	  call a doctor
+Service Centre	Medical assistance	  call a doctor?
+Service Centre	Medical assistance	  medic to my rom
+Service Centre	Medical assistance	  medic to my room
+Service Centre	Medical assistance	  medic to my room
+Service Centre	Medical assistance	  medick to my room
+Service Centre	Medical assistance	  medik to my room
+Service Centre	Medical assistance	  send some one from medical
+Service Centre	Medical assistance	  send someone from medicle
+Service Centre	Medical assistance	  send someone from medikal
+Service Centre	Medical assistance	 dispatch medical staf
+Service Centre	Medical assistance	 dispatch medical staff
+Service Centre	Medical assistance	 dispatch medikal staff
+Service Centre	Medical assistance	 docktor right now
+Service Centre	Medical assistance	alergee reaction
+Service Centre	Medical assistance	allergic racking
+Service Centre	Medical assistance	allergic reackshun
+Service Centre	Medical assistance	allergic reaction
+Service Centre	Medical assistance	allergic reakshun
+Service Centre	Medical assistance	ambulance
+Service Centre	Medical assistance	ambulanns
+Service Centre	Medical assistance	ambulans
+Service Centre	Medical assistance	ambulanse
+Service Centre	Medical assistance	ambulanse
+Service Centre	Medical assistance	ambulanse
+Service Centre	Medical assistance	ambulince
+Service Centre	Medical assistance	arm is numb
+Service Centre	Medical assistance	asthma at ack
+Service Centre	Medical assistance	asthma at tack
+Service Centre	Medical assistance	asthma atack
+Service Centre	Medical assistance	asthma atacke
+Service Centre	Medical assistance	asthma atak
+Service Centre	Medical assistance	asthma ataque
+Service Centre	Medical assistance	asthma attack
+Service Centre	Medical assistance	asthma attacks
+Service Centre	Medical assistance	asthma attaq
+Service Centre	Medical assistance	bleading
+Service Centre	Medical assistance	bleed in
+Service Centre	Medical assistance	bleed ing
+Service Centre	Medical assistance	bleedin
+Service Centre	Medical assistance	bleeding
+Service Centre	Medical assistance	bleeding deep cut
+Service Centre	Medical assistance	bleedn
+Service Centre	Medical assistance	bleedng
+Service Centre	Medical assistance	blood everywhere
+Service Centre	Medical assistance	blood pressure high
+Service Centre	Medical assistance	breathing difficulty
+Service Centre	Medical assistance	burn ingury
+Service Centre	Medical assistance	burn injur
+Service Centre	Medical assistance	burn injure
+Service Centre	Medical assistance	burn injury
+Service Centre	Medical assistance	call an ambulance for me
+Service Centre	Medical assistance	call an ambulans for me
+Service Centre	Medical assistance	call an ambulanse for me
+Service Centre	Medical assistance	call an ambuleance for me
+Service Centre	Medical assistance	call an ambulence for me
+Service Centre	Medical assistance	chair on weels
+Service Centre	Medical assistance	chair on wheels
+Service Centre	Medical assistance	chair on wheelz
+Service Centre	Medical assistance	chaironwheels
+Service Centre	Medical assistance	chest pain
+Service Centre	Medical assistance	crushing chest pane
+Service Centre	Medical assistance	deep cut
+Service Centre	Medical assistance	difficult tea breathing
+Service Centre	Medical assistance	difficultly breathing
+Service Centre	Medical assistance	difficulty breathin
+Service Centre	Medical assistance	difficulty breathing
+Service Centre	Medical assistance	difficulty breathins
+Service Centre	Medical assistance	disability chair
+Service Centre	Medical assistance	 dizzy
+Service Centre	Medical assistance	doc needed
+Service Centre	Medical assistance	doc tor
+Service Centre	Medical assistance	doc tor needed
+Service Centre	Medical assistance	docktor
+Service Centre	Medical assistance	docktor
+Service Centre	Medical assistance	docktor needed
+Service Centre	Medical assistance	doctor
+Service Centre	Medical assistance	doctor needed
+Service Centre	Medical assistance	extreme pain
+Service Centre	Medical assistance	extreme payne
+Service Centre	Medical assistance	face numb one side
+Service Centre	Medical assistance	facture
+Service Centre	Medical assistance	faint
+Service Centre	Medical assistance	faint from blood loss
+Service Centre	Medical assistance	fainted
+Service Centre	Medical assistance	fell down
+Service Centre	Medical assistance	first aid
+Service Centre	Medical assistance	first aid kit
+Service Centre	Medical assistance	food poisoning
+Service Centre	Medical assistance	hard to breath
+Service Centre	Medical assistance	head injury
+Service Centre	Medical assistance	headache
+Service Centre	Medical assistance	heart atack
+Service Centre	Medical assistance	heart attack
+Service Centre	Medical assistance	heavy bleeding
+Service Centre	Medical assistance	heavy bleeding
+Service Centre	Medical assistance	medical assistance
+Service Centre	Medical assistance	medical emegrency
+Service Centre	Medical assistance	medical help
+Service Centre	Medical assistance	medicine 
+Service Centre	Medical assistance	need a doctor
+Service Centre	Medical assistance	need medical help
+Service Centre	Medical assistance	nurse
+Service Centre	Medical assistance	send medical asistants
+Service Centre	Medical assistance	send medical assistance
+Service Centre	Medical assistance	unwell
+Service Centre	Medical assistance	vision is blury
+Service Centre	Medical assistance	vomiting
+Service Centre	Medical assistance	we need an ambulance
+Service Centre	Medical assistance	weel chair
+Service Centre	Medical assistance	weelchair
+Service Centre	Medical assistance	wheel chair
+Service Centre	Medical assistance	wheelchair
+Service Centre	Medical assistance.	我一直呕吐，需要帮助
+Service Centre	Medical assistance.	我呼吸困难
+Service Centre	Medical assistance.	我在浴室摔倒了，请派人来
+Service Centre	Medical assistance.	我感觉很不舒服
+Service Centre	Medical assistance.	我胃痉挛很严重
+Service Centre	Medical assistance.	我需要医疗协助
+Service Centre	Medical assistance.	我需要医疗救助
+Service Centre	Medical assistance.	我需要急救处理
+Service Centre	Medical assistance.	我需要轮椅
+Service Centre	Medical assistance.	我食物中毒了
+Service Centre	Medical assistance.	有头痛药吗
+Service Centre	Medical assistance.	有客人晕倒了
