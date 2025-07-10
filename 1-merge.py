@@ -1,9 +1,11 @@
 import pandas as pd
 
 # === File paths ===
-xlsx_path = "Yotel Service Items listing 07 July.xlsx"
-csv_path = "Yotel job_items variants.csv"
-output_path = "Yotel_Merged_Output.xlsx"
+xlsx_path = "data/yotel-service-items-listing-7jul.xlsx"
+csv_path = "data/yotel-job-items-variants.csv"
+
+# csv
+output_path = "yotel_merged_output.csv"
 
 # Load the files
 # Assuming the first sheet in the Excel file contains the relevant data
@@ -36,8 +38,7 @@ for _, xlsx_row in xlsx_df.iterrows():
 new_columns = list(xlsx_df.columns) + ["Variant Info"]
 output_df = pd.DataFrame(combined_rows, columns=new_columns)
 
-# csv
-output_path = "Yotel_Merged_Output.csv"
+
 output_df.to_csv(output_path, index=False)
 print(f"Merged file saved to: {output_path}")
 
