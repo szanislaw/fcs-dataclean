@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the Excel file
-file_path = "filtered_no_chinese.xlsx"
+file_path = "arch/filtered_no_chinese.xlsx"
 df = pd.read_excel(file_path)
 
 # Strip whitespace from all column names
