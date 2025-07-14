@@ -4,6 +4,7 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 from tqdm import tqdm
+import re
 
 # ----------------------------------------------------------
 # STEP 1: Convert tab-delimited .txt to .csv
@@ -24,7 +25,7 @@ print(f"✅ Converted '{input_file}' to '{output_csv_file}'")
 # ----------------------------------------------------------
 xlsx_path = "data/yotel-service-items-listing-7jul.xlsx"
 csv_path = output_csv_file
-merged_output_path = "yotel_merged_output.csv"
+merged_output_path = "output/yotel_merged_output.csv"
 
 xlsx_df = pd.read_excel(xlsx_path)
 csv_df = pd.read_csv(csv_path)
@@ -52,9 +53,23 @@ output_df.to_csv(merged_output_path, index=False)
 print(f"✅ Merged file saved to: {merged_output_path}")
 
 # ----------------------------------------------------------
+# STEP 2.5: Remove rows with Chinese characters from merged data
+# ----------------------------------------------------------
+def contains_chinese(text):
+    if isinstance(text, str):
+        return bool(re.search(r'[\u4e00-\u9fff]', text))
+    return False
+
+output_df = pd.read_csv(merged_output_path)
+filtered_df = output_df[~output_df.applymap(contains_chinese).any(axis=1)]
+filtered_output_path = "output/yotel_merged_output_filtered.csv"
+filtered_df.to_csv(filtered_output_path, index=False)
+print(f"✅ Removed rows with Chinese characters. Saved filtered file to: {filtered_output_path}")
+
+# ----------------------------------------------------------
 # STEP 3: Clean and prepare data
 # ----------------------------------------------------------
-filtered_file = "arch/filtered_no_chinese.xlsx"
+filtered_file = "data/filtered_no_chinese.xlsx"
 df = pd.read_excel(filtered_file)
 df.columns = df.columns.str.strip()
 
@@ -120,7 +135,7 @@ print(f"✅ Updated file saved as '{updated_path}'")
 # STEP 6: Add UUID column using Variant Info
 # ----------------------------------------------------------
 # Reload variant mapping
-variants_df = pd.read_csv(output_csv_file)
+variants_df = pd.read_csv(csv_path)
 variants_df.columns = variants_df.columns.str.strip()
 variant_info_column = variants_df.columns[1]
 uuid_column = variants_df.columns[0]

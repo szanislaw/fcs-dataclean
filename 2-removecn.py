@@ -2,7 +2,7 @@ import pandas as pd
 import re
 
 # Load the Excel file
-file_path = "master-variant-interim-copy.xlsx"  # Replace with your actual path
+file_path = "yotel_merged_output-missing.xlsx"  # Replace with your actual path
 df = pd.read_excel(file_path)
 
 # Function to detect Chinese characters

@@ -1,8 +1,8 @@
 import pandas as pd
 
 # Load the Excel file
-file_path = "arch/filtered_no_chinese.xlsx"
-df = pd.read_excel(file_path)
+file_path = "yotel_merged_output.csv"
+df = pd.read_csv(file_path)
 
 # Strip whitespace from all column names
 df.columns = df.columns.str.strip()
