@@ -1,5 +1,5 @@
 # fcs-dataclean
-# 🛠️ YOTEL Job Items Variant Matching Pipeline
+# Job Items Variant Matching Pipeline
 
 This Python script performs a full end-to-end pipeline to process and match service item variants for YOTEL jobs. It merges variant data from multiple sources, filters out Chinese-language rows, matches similar service items using semantic similarity, and restores UUIDs to the final dataset.
 
@@ -15,7 +15,7 @@ This Python script performs a full end-to-end pipeline to process and match serv
 ├── temp/
 │   ├── temp-fileș
 ├── final-job-variant.xlsx                      # ✅ Final output with UUIDs
-├── script.py                                   # Your main processing script
+├── main.py                                   # Your main processing script
 ├── requirements.txt
 └── README.md
 ```
