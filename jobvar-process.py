@@ -16,7 +16,7 @@ semantic_output_path = "temp/semantic_matching_results.xlsx"
 updated_output_path = "temp/cleaned_variants_updated.xlsx"
 final_cleaned_output = "temp/cleaned_variants_updated_no_chinese.xlsx"
 
-final_uuid_output = "cleaned_variants_with_uuid.xlsx"
+final_uuid_output = "final-job-variant.xlsx"
 
 # === Load source data ===
 xlsx_df = pd.read_excel(xlsx_path)
