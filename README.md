@@ -13,12 +13,7 @@ This Python script performs a full end-to-end pipeline to process and match serv
 │   ├── yotel-service-items-listing-7jul.xlsx   # Any Master Excel file with UUIDs
 │   └── yotel-job-items-variants.csv            # Any CSV file with UUID + Variant Info
 ├── temp/
-│   ├── yotel_merged_output-missing.xlsx
-│   ├── filtered_no_chinese.xlsx
-│   ├── cleaned_variants.xlsx
-│   ├── semantic_matching_results.xlsx
-│   ├── cleaned_variants_updated.xlsx
-│   └── cleaned_variants_updated_no_chinese.xlsx
+│   ├── temp-fileș
 ├── final-job-variant.xlsx                      # ✅ Final output with UUIDs
 ├── script.py                                   # Your main processing script
 ├── requirements.txt
