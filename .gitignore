@@ -1,0 +1,3 @@
+# Ignore the 'arch' and 'tmp-code' folders
+arch/
+tmp-code/
