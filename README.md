@@ -27,7 +27,7 @@ This Python script performs a full end-to-end pipeline to process and match serv
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ Merges UUIDs from Excel and CSV
 - 🧼 Removes rows containing Chinese characters
