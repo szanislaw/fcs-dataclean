@@ -11,7 +11,7 @@ The usage for this is for training ASR models powering hotel concierge bots, and
 response = openai.chat.completions.create(
     model="gpt-3.5-turbo",  # Use a model you have access to
     messages=[
-        {"role": "system", "content": "You are a helpful assistant and a Natural Language Processing expert trying to create a Master List of fault variants for hotel guest service requests."},
+        {"role": "system", "content": "You are a helpful assistant and a Natural Language Processing expert trying to create a list of fault variants for hotel guest service requests."},
         {"role": "user", "content": prompt}
     ],
     temperature=0.6,  # Controls creativity; lower = more deterministic
