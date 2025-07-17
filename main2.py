@@ -5,7 +5,6 @@ from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
-
 # === File paths ===
 xlsx_path = "data/yotel-service-items-listing-7jul.xlsx"
 csv_path = "data/yotel-job-items-variants.csv"
@@ -16,7 +15,6 @@ final_output_path = "temp/cleaned_variants.xlsx"
 semantic_output_path = "temp/semantic_matching_results.xlsx"
 updated_output_path = "temp/cleaned_variants_updated.xlsx"
 final_cleaned_output = "temp/cleaned_variants_updated_no_chinese.xlsx"
-
 final_uuid_output = "final-job-variant.xlsx"
 
 # === Load source data ===
@@ -85,7 +83,9 @@ print(f"✅ Cleaned file saved as: {final_output_path}")
 print("📐 Starting semantic similarity matching...")
 df = pd.read_excel(final_output_path)
 df.columns = df.columns.str.strip()
-df_master = df.iloc[:52120].copy()
+
+# Separate matched and unmatched
+df_master = df.iloc[:52120].copy()  # rows with matched UUIDs
 df_unmatched = df.iloc[52120:].copy()
 
 master_items = list(set(df_master['JO Service Item'].dropna()))
@@ -132,8 +132,8 @@ df_final_clean.to_excel(final_cleaned_output, index=False)
 print(f"✅ Final file with Chinese characters removed saved as: {final_cleaned_output}")
 
 # === Load the Excel files ===
-service_items_df = pd.read_excel("data/yotel-service-items-listing-7jul.xlsx")
-cleaned_variants_df = pd.read_excel("temp/cleaned_variants_updated_no_chinese.xlsx")
+service_items_df = pd.read_excel(xlsx_path)
+cleaned_variants_df = pd.read_excel(final_cleaned_output)
 
 # === Clean column names and strip whitespace in key columns ===
 service_items_df.columns = service_items_df.columns.str.strip()
@@ -154,4 +154,4 @@ merged_df = merged_df.drop_duplicates(subset=["Variant Info"])
 
 # === Save the new Excel file ===
 merged_df.to_excel("variants_uuid_nondup.xlsx", index=False)
-print("✅ UUIDs added and file saved as 'cleaned_variants_with_uuid.xlsx'")
+print("✅ UUIDs added and file saved as 'variants_uuid_nondup.xlsx'")
